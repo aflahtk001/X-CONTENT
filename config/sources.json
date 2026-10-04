@@ -1,0 +1,30 @@
+[
+  {
+    "name": "TechCrunch",
+    "type": "rss",
+    "url": "https://techcrunch.com/feed/",
+    "enabled": true,
+    "weight": 1.0
+  },
+  {
+    "name": "The Verge",
+    "type": "rss",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "enabled": true,
+    "weight": 1.0
+  },
+  {
+    "name": "Ars Technica",
+    "type": "rss",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "enabled": true,
+    "weight": 1.0
+  },
+  {
+    "name": "Wired",
+    "type": "rss",
+    "url": "https://www.wired.com/feed/rss",
+    "enabled": true,
+    "weight": 1.0
+  }
+]
